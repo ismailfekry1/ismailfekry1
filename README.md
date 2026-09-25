@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ismail Fekry</h1>
+<h1 align="center">Hi👋, I'm Ismail Fekry</h1>
 <h3 align="center">🚀 Flutter Developer | Mobile App Engineer</h3>
 
 <p align="center">

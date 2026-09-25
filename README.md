@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, I'm Ismail Fekry
 
-<!--
-**ismailfekry1/ismailfekry1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 **Flutter Developer** passionate about building high-performance, scalable cross-platform mobile applications.
+- 🏗️ Focused on **Clean Architecture**, State Management (**BLoC / Cubit**, **Provider**, **GetIt**), and RESTful APIs (**Dio**).
+- 🛠️ Tools & Tech: Android Studio, Git, SourceTree, Firebase.
+- 🎓 Graduate of the Faculty of Computers and Artificial Intelligence, Beni-Suef University.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Dart, C++
+- **Framework:** Flutter
+- **Architecture & State Management:** Clean Architecture, BLoC, Cubit, Provider
+- **Networking & Database:** Dio, Firebase (Auth, Cloud Firestore)
+- **Version Control:** Git, GitHub, SourceTree
